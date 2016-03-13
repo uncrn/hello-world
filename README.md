@@ -1,3 +1,3 @@
 # hello-world
 
-Arty's here. My nickname is uncrn, and I've chosen it because of these creatures desriptions in different mythologies.
+Arty's here. Living in Russia, like MTB riding, photo making and enjoying life.
