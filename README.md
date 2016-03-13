@@ -1,3 +1,3 @@
 # hello-world
 
-Arty's here. Living in Russia, like MTB riding, photo making and enjoying life.
+Arty's here. Living in Russia, like MTB riding, good people and many other things.
