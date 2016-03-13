@@ -1,2 +1,3 @@
 # hello-world
-my first rep in github
+
+Arty's here. Living in Russia, like MTB riding, good people and many other things.
