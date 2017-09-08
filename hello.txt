@@ -1,3 +1,8 @@
 print("Hello, World!")
 print("Hello, you, dear!")
+<<<<<<< HEAD
 print("how r u there?")
+=======
+print("how r u there, dude?")
+print("final")
+>>>>>>> master
